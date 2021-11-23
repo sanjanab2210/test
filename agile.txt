@@ -1,0 +1,2 @@
+Agile methodology is way to manage a project by breaking it up into several phases.
+Git is a version control system that lets you manage and keep track.
